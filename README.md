@@ -58,6 +58,9 @@ python app.py
 ## Requirements 📋  
 - Python 3.8+  
 - FFmpeg installed system-wide  
+- **Core Models** (auto-downloaded on first run):  
+  - 🎙️ `openai/whisper-small` - Speech-to-text transcription ([Model Card](https://github.com/openai/whisper))  
+  - 🇷🇴 `Helsinki-NLP/opus-mt-en-ro` - English→Romanian translation ([Model Card](https://huggingface.co/Helsinki-NLP/opus-mt-en-ro))  
 - (Optional) NVIDIA GPU for faster processing  
 
 ---
