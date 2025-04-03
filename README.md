@@ -18,7 +18,7 @@ Convert MP4 videos with English audio into Romanian-subtitled MP4 files. Perfect
 1. Install **FFmpeg** ([Windows](https://www.gyan.dev/ffmpeg/builds/), [Linux/macOS](https://ffmpeg.org/download.html))  
 2. Clone the repo:  
 ```bash  
-git clone https://github.com/yourusername/Video2ROSubs.git  
+git clone https://github.com/yourusername/RoSubMaster.git  
 ```  
 3. Install dependencies:  
 ```bash  
