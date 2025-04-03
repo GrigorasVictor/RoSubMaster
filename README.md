@@ -36,7 +36,7 @@ python app.py
 2. Click "Select MP4 File" and choose your video.  
 3. Wait for processing (see console for progress).  
 4. **Done!** Outputs:  
-   - `[original_name]_RO.mp4` (video with burned-in subtitles)  
+   - `[original_name]_RO.wav`
    - `Subtitles/[original_name]_RO.srt` (Romanian subtitle file)  
 
 ---
