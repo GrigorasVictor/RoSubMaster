@@ -67,7 +67,6 @@ python app.py
 
 ## Notes ⚠️  
 - Works best with clear English audio (no background noise).  
-- Subtitles are burned into the video (hardcoded).  
 
 --- 
 
